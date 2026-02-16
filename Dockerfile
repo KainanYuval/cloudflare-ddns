@@ -1,5 +1,5 @@
 # ---- Base ----
-FROM python:alpine AS base
+FROM devopspaper.jfrog.io/docker/python:alpine AS base
 
 #
 # ---- Dependencies ----
